@@ -1,0 +1,18 @@
+{
+  "name": "dorman-distance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-json": "^1.1.1",
+    "koa-router": "^5.1.2",
+    "rpi-gpio": "^0.5.2",
+    "thunkify": "^2.1.2"
+  }
+}
